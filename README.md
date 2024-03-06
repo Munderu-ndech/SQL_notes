@@ -1,6 +1,9 @@
 We start by creating a database (create-databases.sql).
+
 Follow with creating the tables.
+
 Populate the tables with data.
+
 Repeat for the other databases
 
 
